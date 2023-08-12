@@ -1,0 +1,10 @@
+D:\Products Management System\Products Management System\Products Management System\bin\Debug\Products Management System.exe.config
+D:\Products Management System\Products Management System\Products Management System\obj\Debug\Products Management System.csprojResolveAssemblyReference.cache
+D:\Products Management System\Products Management System\Products Management System\obj\Debug\Products_Management_System.Properties.Resources.resources
+D:\Products Management System\Products Management System\Products Management System\obj\Debug\Products Management System.csproj.GenerateResource.Cache
+C:\Users\ENG-HUSSAM\Desktop\Products Management System\Products Management System\bin\Debug\Products Management System.exe.config
+C:\Users\ENG-HUSSAM\Desktop\Products Management System0\Products Management System\bin\Debug\Products Management System.exe.config
+D:\projects\Products Management System0\Products Management System\obj\Debug\Products Management System.csprojAssemblyReference.cache
+D:\projects\Products Management System0\Products Management System\obj\Debug\Products_Management_System.Properties.Resources.resources
+D:\projects\Products Management System0\Products Management System\obj\Debug\Products Management System.csproj.GenerateResource.cache
+D:\projects\Products Management System0\Products Management System\obj\Debug\Products Management System.csproj.CoreCompileInputs.cache
